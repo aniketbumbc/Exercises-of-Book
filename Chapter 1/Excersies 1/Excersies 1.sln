@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Excersies 1", "Excersies 1\Excersies 1.csproj", "{AE2A5C78-70B1-45CC-A5B8-852C69F32C9B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquareRoot", "SquareRoot\SquareRoot.csproj", "{B3667304-7A76-4FD9-BC08-FB1EF0656222}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE2A5C78-70B1-45CC-A5B8-852C69F32C9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE2A5C78-70B1-45CC-A5B8-852C69F32C9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE2A5C78-70B1-45CC-A5B8-852C69F32C9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE2A5C78-70B1-45CC-A5B8-852C69F32C9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B3667304-7A76-4FD9-BC08-FB1EF0656222}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B3667304-7A76-4FD9-BC08-FB1EF0656222}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B3667304-7A76-4FD9-BC08-FB1EF0656222}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B3667304-7A76-4FD9-BC08-FB1EF0656222}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

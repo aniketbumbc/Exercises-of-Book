@@ -1,0 +1,5 @@
+D:\Book Excersies\Chapter 1\Excersies 1\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Book Excersies\Chapter 1\Excersies 1\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Book Excersies\Chapter 1\Excersies 1\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Book Excersies\Chapter 1\Excersies 1\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Book Excersies\Chapter 1\Excersies 1\SquareRoot\obj\Debug\SquareRoot.pdb

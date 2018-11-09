@@ -1,0 +1,6 @@
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\bin\Debug\Excersies 1.exe.config
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\bin\Debug\Excersies 1.exe
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\bin\Debug\Excersies 1.pdb
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\obj\Debug\Excersies 1.csprojResolveAssemblyReference.cache
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\obj\Debug\Excersies 1.exe
+D:\Book Excersies\Chapter 1\Excersies 1\Excersies 1\obj\Debug\Excersies 1.pdb
