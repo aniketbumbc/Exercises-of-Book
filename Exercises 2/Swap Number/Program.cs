@@ -19,6 +19,7 @@ namespace Swap_Number
             a = b;          
             b = c;
             Console.WriteLine("The value After swap is  a = " + a + " and b = " + b);
+
             Console.WriteLine("    o o.o o   ");
             Console.WriteLine("  o         o      ");
             Console.WriteLine("  o         o       ");
