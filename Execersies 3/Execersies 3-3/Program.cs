@@ -11,7 +11,7 @@ namespace Execersies_3_3
         static void Main(string[] args)
         {
             int num;
-            Console.WriteLine ("Please enter 4 Digit number");
+            Console.WriteLine("Please enter 4 Digit number");
             num = int.Parse(Console.ReadLine());
             Console.WriteLine("number is " + num);
             //Logic of reverse number
@@ -19,9 +19,23 @@ namespace Execersies_3_3
             int b = (num / 10) % 10;
             int c = (num / 100) % 10;
             int d = (num / 1000) % 10;
-            Console.WriteLine(+a +" " + b + " " + c + " " + d);
-            Console.WriteLine(a + b+ c + d);
-            Console.ReadKey();
+            Console.WriteLine(+a + " " + b + " " + c + " " + d);
+            Console.WriteLine(a + b + c + d);
+            Console.ReadKey();                        
         }
     }
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
