@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Numerics;
 
 namespace Excersies_6_Fact
 {
@@ -13,7 +14,7 @@ namespace Excersies_6_Fact
             Console.WriteLine("Welcome to FactWorld");
             Console.Write("Enter Number ");
             int n = int.Parse(Console.ReadLine());
-            int Fact = 1;
+            BigInteger Fact = 1;
             Fact = Fact * n;
             while (n > 1)
             {                
