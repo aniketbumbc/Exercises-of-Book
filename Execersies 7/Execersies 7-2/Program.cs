@@ -26,10 +26,13 @@ namespace Execersies_7_2
                 numbers2[i] = int.Parse(Console.ReadLine());
 
             }
-
+            //sort array 
+            Array.Sort(numbers1);
+            Array.Sort(numbers2);
             Console.WriteLine("Check Length of aaray");
             if (numbers1.Length == numbers2.Length)
             {
+               
                 Console.WriteLine("Length is equal of array");
 
                 Console.WriteLine("Check Each Element of array");
