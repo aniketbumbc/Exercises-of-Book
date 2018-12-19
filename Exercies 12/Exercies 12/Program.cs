@@ -3,18 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
-namespace Exercies_12
-{
-    class Program
-    {
-       using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-
 namespace Excersies_12_Exception
     {
         class Program
@@ -27,15 +15,13 @@ namespace Excersies_12_Exception
 
                     Console.WriteLine("{0} / {1} = {2}", num1, num2, result);
                 }
-                catch (DivideByZeroException ex)
+            catch (DivideByZeroException ex)
+            {
+                throw new ApplicationException(string.Format("Cannot divide by zero. Please try again."), ex);
+            }
+            catch (InvalidOperationException ex)
                 {
-                    //LogError(ex);
-                    Console.WriteLine("Cannot divide by zero. Please try again.");
-                }
-                catch (InvalidOperationException ex)
-                {
-                    //LogError(ex);
-                    Console.Write("Not a valid number. Please try again.");
+                    throw new ApplicationException(string.Format("Invalid Data"), ex);
                 }
 
             }
@@ -52,5 +38,3 @@ namespace Excersies_12_Exception
         }
     }
 
-}
-}
